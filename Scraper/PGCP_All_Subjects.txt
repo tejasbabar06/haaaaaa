@@ -1,0 +1,36 @@
+PG-DAC COURSE CONTENT
+PG CERTIFICATE PROGRAMME IN ADVANCED COMPUTING (PGCP-AC)
+Fundamentals of Operating Systems, Process & Thread Management, Scheduling, Deadlocks, Memory Management, File Systems, Linux Commands, Shell Scripting, SDLC Models, Agile & Scrum, Software Testing Basics, Requirements Engineering, UML Diagrams, Design Principles
+
+CONCEPTS OF OPERATING SYSTEM & SOFTWARE DEVELOPMENT METHODOLOGIES - 60 HOURS
+Structure of C++ Programs, Classes & Objects, Constructors, Inheritance & Polymorphism, Operator Overloading, Function & Class Templates, Exception Handling, Namespaces, Standard Template Library (STL), File Handling, Dynamic Memory, OOP-based Application Development
+
+C++ PROGRAMMING - 90 HOURS
+Database Design, ER Modeling, SQL (DDL, DML, DCL, TCL), Joins, Views, Indexes, Stored Procedures, Functions, Triggers, Transactions & ACID, Query Optimization, PL/SQL Programming, Normalization, Introduction to NoSQL Concepts
+
+DATABASE TECHNOLOGIES - 90 HOURS
+Java Syntax, Data Types, Classes & Objects, Constructors, Inheritance, Interfaces, Exception Handling, Collections Framework, Generics, Multithreading, File I/O, JDBC Basics, Introduction to Java Packages & JDK Tools
+
+OBJECT ORIENTED PROGRAMMING WITH JAVA - 150 HOURS
+Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting & Searching Algorithms, Recursion, Greedy Approach, Divide & Conquer, Dynamic Programming, Performance Analysis, Algorithm Complexity (Big-O), Java-based implementation patterns
+
+ALGORITHMS AND DATA STRUCTURES (USING JAVA) - 90 HOURS
+HTML5, CSS3, Bootstrap, JavaScript (ES6), DOM Manipulation, Responsive Web Design, AJAX, JSON, Client–Server Architecture, Frontend Validation, Web Hosting Basics
+
+WEB PROGRAMMING TECHNOLOGIES - 150 HOURS
+Servlets, JSP, JSTL, MVC Architecture, Sessions & Cookies, Filters, JDBC Integration, Web Application Security, Building Java Web Applications, Deployment on Apache Tomcat, REST API Basics
+
+WEB-BASED JAVA PROGRAMMING - 150 HOURS
+C# Basics, OOP in C#, Delegates & Events, Collections, LINQ, Exception Handling, ADO.NET, ASP.NET Web Forms/MVC, Entity Framework Basics, Web Services, .NET Core Fundamentals, Building & Deploying .NET Applications
+
+MICROSOFT .NET TECHNOLOGIES - 120 HOURS
+Aptitude: Percentage, Profit & Loss, Ratio & Proportion, Average, Mixture & Allegation, Simple Interest & Compound Interest,  Number Systems, Series, Cyclicity & Remainders, Data Interpretation, Syllogism, Coding & Decoding, Blood Relations, Seating Arrangements (Linear & Circular), Ages, Puzzles, Time, Speed & Distance, Trains, Boats & Streams, Time & Work, Wages (Man days), Pipes & Cisterns, Clocks, Permutations & Combinations, Probability, Calendar
+
+APTITUDE AND EFFECTIVE COMMUNICATION - 120 HOURS
+Effective Communication: Fundamentals of Communication, The Art of Communication, Personality Development, English Grammar, Correct Usage of English,  Common mistakes in English Communication, Listening Skills, Reading Skills, Writing Skills,  Public Speaking, Presentation Skills, Group Discussions, Interpersonal skills, Personal Interviews
+
+PROJECT - 180 HOURS
+End-to-end project including Requirements, Design, Database Modeling, Coding (Java/.NET/Full-Stack), Testing, Documentation, Version Control (Git), Deployment, and Final Presentation.
+
+Admission Booklet PDF:
+https://www.sunbeaminfo.com/admission_booklet.pdf
