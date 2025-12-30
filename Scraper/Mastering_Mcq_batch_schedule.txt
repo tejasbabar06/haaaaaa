@@ -1,0 +1,8 @@
+BATCH SCHEDULE 
+=======================================================
+
+Batch No    : 1
+Course Name: Mastering MCQs-O-03 For C-CAT & MNC Interviews
+Start Date : 11-Dec-2025
+End Date   : 08-Jan-2026
+---------------------------------------------
