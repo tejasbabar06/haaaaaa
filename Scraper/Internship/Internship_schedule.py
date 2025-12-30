@@ -29,8 +29,6 @@ for rows in table_rows:
         info_list.append(info)
 
 driver.quit()
-
-# ✅ Write to TXT file
 with open("internship_schedule.txt", "w", encoding="utf-8") as f:
     for i, item in enumerate(info_list, start=1):
         f.write(f"Record {i}\n")
