@@ -1,0 +1,30 @@
+PRE-CAT BATCH SCHEDULE
+=======================================================
+
+Batch No     : 1
+Batch Code   : PM-48
+Duration     : 160 Hrs
+Start Date   : 16-Feb-2026
+End Date     : 14-Apr-2026
+Timing       : 9:00 AM  To                                         1:00 PM
+Fees         : 17600/-
+---------------------------------------------
+Batch No     : 2
+Batch Code   : OM-66
+Duration     : 160 Hrs
+Start Date   : 25-Feb-2026
+End Date     : 16-May-2026
+Timing       : 2:00 PM  To                                         6:00 PM
+Fees         : 15500/-
+---------------------------------------------
+Batch No     : 3
+Batch Code   : PH-39
+Duration     : 160 Hrs
+Start Date   : 09-Mar-2026
+End Date     : 05-May-2026
+Timing       : 9:00 AM  To                                         1:00 PM
+Fees         : 17600/-
+---------------------------------------------
+
+Register Link:
+http://admission.sunbeaminfo.com/aspx/CourseSchedule.aspx
