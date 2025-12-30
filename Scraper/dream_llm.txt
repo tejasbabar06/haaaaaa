@@ -1,0 +1,72 @@
+GENERAL INFORMATION
+Course Name : Dream LLM
+Batch Schedule : 05-Jan-2026   To   09-Feb-2026
+Schedule : Monday - Thursday
+Duration : 5 weeks
+Timings : 9:00 PM  To  11:00 PM
+Fees : Rs. INR 20000/- 12000/-(Inc.18% GST)
+
+COURSE DETAILS
+
+[Syllabus]
+Introduction to LLM
+What is large language model?
+Types of LLM
+Applications of LLM
+Requirements of DreamLLM
+Mathematics and Pytorch required for LLM
+Vectors
+Matrices
+Tensors
+Linear Algebra
+All maths topics with Pytorch implementation
+Introduction to Deep Learning
+Difference between ML and DL
+Neural network architecture
+Introduction to forward and backward propagation
+Why should you build DreamLLM?
+Strategies of building LLM
+Fine tuning vs creating custom LLM
+Supervised (labelled) vs unsupervised (unlabelled) training custom LLM
+Architecture of DreamLLM
+Transformers
+Relationship between LLM and transformer
+Introduction to transformers
+Transformer architecture
+Types of transformers
+Understanding data
+Data requirements to train DreamLLM
+Preprocessing the data
+Tokenization
+Custom tokenization
+Embeddings basics
+Byte pair encoding
+Processing data using sequence modelling
+Introduction to RNN (LSTM and GRU)
+Introduction and requirement of attention mechanism
+Implementing attention mechanism
+Self attention mechanism
+Single head
+Multi head
+Creating LLM from scratch
+Deciding the layers, activation functions
+Implementing feed forward network
+Generating text using custom LLM
+Fine tuning for further tasks
+Fine tuning the DreamLLM on labelled data
+Fine tuning the DreamLLM on unlabelled data
+Evaluation of DreamLLM
+Deploying the DreamLLM
+Use AWS cloud for deployment
+Automate the deployment using AWS DevOps tools
+CLICK TO REGISTER
+
+
+BATCH SCHEDULE
+
+Batch 1
+Sr.No : 1
+Batch Code : DreamLLM-O-01
+Start Date : 05-Jan-2026
+End Date : 09-Feb-2026
+Time : 9:00 PM  To  11:00 PM
