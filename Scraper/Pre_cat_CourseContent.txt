@@ -1,17 +1,23 @@
 SUNBEAM PRE-CAT COURSE CONTENT
-========================================
+==================================================
 
-1. General Aptitude (Quantitative Aptitude, Reasoning and English)
-2. Computer Fundamentals & Concepts of Programming
-3. C Programming
-4. Data Structure
-5. Object Oriented Programming Concepts Using C++
-6. Operating Systems & Networking
-7. Basics of Big Data & Artificial Intelligence
-8. Computer Architecture
-9. Digital Electronics
-10. Microprocessor
-11. Students who are eligible for Full-time PG Courses are eligible for Pre-CAT courses.
+Batch No     : 
+Course Name : 
+Start Date  : 
+End Date    : 
+----------------------------------------
+Batch No     : 
+Course Name : 
+Start Date  : 
+End Date    : 
+----------------------------------------
+Batch No     : 
+Course Name : 
+Start Date  : 
+End Date    : 
+----------------------------------------
 
+Register Link:
+http://admission.sunbeaminfo.com/aspx/CourseSchedule.aspx
 Register Link:
 http://admission.sunbeaminfo.com/aspx/CourseSchedule.aspx
