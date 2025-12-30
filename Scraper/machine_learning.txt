@@ -1,0 +1,124 @@
+GENERAL INFORMATION
+Course Name : Machine Learning
+Batch Schedule : 26-Oct-2023   To   28-Nov-2023
+Schedule : Weekdays - (Mon -Fri)
+Duration : 40 hrs.
+Timings : 07:30 AM  To  9:30 AM
+Fees : Rs. 7500/- (Inc. 18% GST)
+
+COURSE DETAILS
+
+[Syllabus]
+Introduction to Machine Learning
+Big picture of machine learning
+Why machine learning is needed?
+Types of machine learning
+Challenges of machine learning
+Creating machine learning pipeling
+End-to-end process
+Regression 
+Understanding statistical regression
+Performing regression with
+Simple linear regressison
+Multiple linear regression
+Support vector machine
+Evaluating models using RMSE, MSE, MAE etc
+ Classification
+Understanding need of classification
+Classification vs regression
+Performing classification with
+Logistic regression
+Support vector machine
+Decision trees
+K nearest neighbours
+Evaluating models using AuC and RoC etc
+Ensemble Learning
+What is ensemble learning
+Need of ensemble learning
+Types of ensemble learning
+Bagging
+Random forest
+Boosting
+Gradient boosting
+Xgboost
+Stacking
+Clustering
+Why clustering is needed?
+Performing clustering using
+Hierarchical clustering
+K meaning clustering
+Association Rule Mining
+Where association rule mining is needed
+Performing association rule mining using
+Apriori
+Dimensionality Reduction
+Introduction to feature extraction
+What is dimensionality reduction?
+Performing dimensionality reduction using
+PCA
+Introdution to Deep Learning
+What is deep learning?
+Introduction to artificial networking
+Introduction to TensorFlow and Keras
+Introduction MLPs with Keras
+Convolutional Neural Network
+Deep computer vision using CNN
+Introduction to images and convolutions
+CNN architecture
+Image classification using CNN
+Object detection using CNN
+Recurrent Neural Network
+Introduction to RNN
+Processing sequences using RNN
+Training RNN
+Forecasting time series using TensorFlow
+Naural language processing using RNN
+Representation Learning and GANs
+Introduction to autoencoders
+Stacked autoencoders
+Introduction to GAN
+Reinforcement Learning
+Introduction to reinforcement learning
+Introduction to OpenAI gym
+Q-learning
+Deep Q-Learning
+Deploying model on cloud (AWS)
+Saving models
+Serving TensorFlow model
+CLICK TO REGISTER
+
+[Pre-requisites]
+Python fundamentals
+Collections
+Functions
+Classes
+Decorators
+Packages
+Numpy
+Pandas
+Matplotlib
+Statistics fundamentals
+Note: Training videos on important topics will be shared for your own practice
+CLICK TO REGISTER
+
+[Outcome]
+You will be able to understand when, where and how to use ML
+You will be able to solve problems related to regression, classification, AI etc.
+You will be able to create models which can be used in desktop and mobile applications
+CLICK TO REGISTER
+
+[Software Setup]
+Python 3.x
+IDE: Pycharm
+Packages: numpy, pandas, scikit, pytorch, keras, flask
+CLICK TO REGISTER
+
+
+BATCH SCHEDULE
+
+Batch 1
+Sr.No : 1
+Batch Code : ML-O-07
+Start Date : 26-Oct-2023
+End Date : 28-Nov-2023
+Time : 07:30 AM  To  9:30 AM
