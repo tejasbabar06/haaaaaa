@@ -1,0 +1,30 @@
+GENERAL INFORMATION
+Course Name : MLOps & LLMOps
+Batch Schedule : 24-Nov-2025   To   05-Dec-2025
+Schedule : Monday to Friday (9pm to 11pm)
+Duration : 2 weeks
+Timings : 9:00 PM  To  11:00 PM
+Fees : Rs. 8000/- Special Offer for Sunbeam Alumni 5900
+
+COURSE DETAILS
+
+[Syllabus]
+Experiment Tracking: MLFlow, Weights and Biases
+Data and model versioning: dvc and LakeFS
+Containerization of models: Docker
+MLOps Pipeline: KubeFlow and MLFlow
+Model serving: KServe, Tensorflow Serving
+CI/CD for MLOps: Jenkins and GitHub Actions
+Observability: ELK
+Monitoring: Prometheus and Grafana
+CLICK TO REGISTER
+
+
+BATCH SCHEDULE
+
+Batch 1
+Sr.No : 1
+Batch Code : MLOps and LLMOps (O-01)
+Start Date : 24-Nov-2025
+End Date : 05-Dec-2025
+Time : 9:00 PM  To  11:00 PM

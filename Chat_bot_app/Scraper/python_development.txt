@@ -1,0 +1,138 @@
+GENERAL INFORMATION
+Course Name : Python Development
+Batch Schedule : 23-Jan-2026   To   20-Feb-2026
+Schedule : Mon - Fri
+Duration : 50 hrs.
+Timings : 8:00 AM  To  10:30 AM
+Fees : Rs. 8100/- 6800 Early Bird Offer
+
+COURSE DETAILS
+
+[Syllabus]
+Python Fundamentals and Environment Setup
+Introduction to Python
+Applications of Python in Machine Learning, Backend, Automation
+Installing Python on Windows, macOS, Linux
+Python interpreters and virtual environments
+Running Python programs
+Script mode vs interactive mode
+Basic coding standards and best practices
+Core Python Syntax and Data Types
+Variables and naming conventions
+Built-in data types: int, float, complex, bool, string
+Type conversion and type checking
+Input and output operations
+Understanding Python memory basics
+Control Flow and Decision Making
+if, elif, else statements
+Nested conditions
+Logical and comparison operators
+Real-world decision-making examples
+Loops and Iterations
+for loop
+while loop
+range function
+break, continue, pass
+Nested loops
+Common looping patterns
+Python Data Structures
+Lists
+Creation, indexing, slicing
+List operations and methods
+List comprehensions
+Tuples
+Tuple creation
+Tuple vs list
+Use cases and immutability
+Sets
+Set creation
+Set operations
+Mathematical set concepts
+Dictionaries
+Key-value pairs
+CRUD operations
+Nested dictionaries
+Handling JSON-like data
+Strings and Text Processing
+String operations
+Common string methods
+String formatting using f-strings
+Text manipulation and cleaning basics
+Functions and Modular Programming
+Defining and calling functions
+Function arguments: positional, keyword, default
+args and kwargs
+Return values
+Scope: local and global
+Creating reusable modules
+Object-Oriented Programming in Python
+OOP concepts and importance
+Classes and objects
+Constructors
+Instance variables and class variables
+Methods
+Encapsulation
+Inheritance
+Polymorphism
+Introduction to magic methods
+Real-world OOP examples
+Error Handling and Debugging
+Types of errors in Python
+try, except, else, finally
+Creating custom exceptions
+Debugging techniques
+Writing robust code
+File Handling and Data Input Output
+Reading and writing text files
+Working with CSV files
+Working with JSON files
+File handling best practices
+Introduction to logging
+Working with Dates, Time and Utilities
+Datetime module
+Time module
+Date formatting and parsing
+Timestamps and timers
+Python Standard Library Overview
+os and sys modules
+math and random modules
+collections module
+itertools introduction
+Useful built-in functions
+Introduction to Data Handling for Machine Learning
+Importance of data in ML
+Introduction to NumPy: Arrays and vectorized operations
+Introduction to Pandas: DataFrames and Series
+Reading datasets
+Basic data exploration and cleaning
+Python for Backend Development Foundations
+Role of Python in backend systems
+Basics of HTTP and REST APIs
+Introduction to Flask and FastAPI concepts
+Request and response lifecycle
+JSON handling in backend
+Basic database interaction concepts
+Database connectivity
+Introduction to MySQL and SQLite
+Database design basics (tables, rows, columns, keys)
+CRUD operations using SQL
+Connecting Python with databases
+Using Python database connectors
+Executing queries from Python
+Handling database transactions
+Error handling in database operations
+Mini Project
+Data-oriented mini project for ML foundation
+Backend-oriented mini project using Python logic
+Emphasis on clean code and problem-solving
+CLICK TO REGISTER
+
+
+BATCH SCHEDULE
+
+Batch 1
+Sr.No : 1
+Batch Code : Python-O-15
+Start Date : 23-Jan-2026
+End Date : 20-Feb-2026
+Time : 8:00 AM  To  10:30 AM

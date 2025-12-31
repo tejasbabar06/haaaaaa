@@ -1,0 +1,7 @@
+C++ programming
+========================================
+
+Fundamentals of Operating Systems, Process & Thread Management, Scheduling, Deadlocks, Memory Management, File Systems, Linux Commands, Shell Scripting, SDLC Models, Agile & Scrum, Software Testing Basics, Requirements Engineering, UML Diagrams, Design Principles
+
+Admission Booklet PDF:
+https://www.sunbeaminfo.com/admission_booklet.pdf
